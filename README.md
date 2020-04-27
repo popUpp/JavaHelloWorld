@@ -1,6 +1,6 @@
 # Java Hello World Example 
 
-In this kurac palac mozes svasta naci i nista bitno nije
+In this project you can find nothing
 
 
 /**********************************************
